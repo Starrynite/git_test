@@ -1,0 +1,1 @@
+This is Starry's first git project!
